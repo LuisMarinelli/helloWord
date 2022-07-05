@@ -11,6 +11,6 @@ public class App {
             result = "Negativo";
         }
 
-        System.out.println("Hello, World! O número informado é " + result + ".");
+        System.out.println("Olá, mundo! O número informado é " + result + ".");
     }
 }
